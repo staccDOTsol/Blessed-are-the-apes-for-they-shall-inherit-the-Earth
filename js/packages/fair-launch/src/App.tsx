@@ -65,7 +65,7 @@ const App = () => {
             </div>
 
             <div>
-              TL;DR: This #FairLaunchProtocol grants each winner 138600 https://solscan.io/token/ELVRweR9SQECBiwXAJLQsFkXW9ME4hKwDD2nRg6QmoBV#holders
+              TL;DR: This #FairLaunchProtocol grants each winner 138666 https://solscan.io/token/ELVRweR9SQECBiwXAJLQsFkXW9ME4hKwDD2nRg6QmoBV#holders
             </div>
 
             <div>
