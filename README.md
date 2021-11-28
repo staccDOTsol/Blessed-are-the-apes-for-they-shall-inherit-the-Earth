@@ -1,4 +1,3 @@
- <div>
     Handle With Care && Blessed are the apes: for they shall inherit the Earth.
     
     Read this for DYOR: https://bit.ly/jare_flp
@@ -10,4 +9,3 @@
     DYOR2: https://linktr.ee/STACCart
     
     DYOR3: https://linktr.ee/p33p
-</div>
