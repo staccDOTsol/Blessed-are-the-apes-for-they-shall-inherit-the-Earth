@@ -3,7 +3,7 @@
     
     Read this for DYOR: https://bit.ly/jare_flp
     
-    TL;DR: This #FairLaunchProtocol grants each winner 138600 https://solscan.io/token/ELVRweR9SQECBiwXAJLQsFkXW9ME4hKwDD2nRg6QmoBV#holders
+    TL;DR: This #FairLaunchProtocol grants each winner 138666 https://solscan.io/token/ELVRweR9SQECBiwXAJLQsFkXW9ME4hKwDD2nRg6QmoBV#holders
     
     a href is soooo hard on React, I do nawt UI well.
     
